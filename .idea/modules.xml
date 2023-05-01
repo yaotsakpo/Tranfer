@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckingAccountService/CheckingAccountService.iml" filepath="$PROJECT_DIR$/CheckingAccountService/CheckingAccountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab11_Part3.iml" filepath="$PROJECT_DIR$/.idea/Lab11_Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SavingAccountService/SavingAccountService.iml" filepath="$PROJECT_DIR$/SavingAccountService/SavingAccountService.iml" />
+    </modules>
+  </component>
+</project>
